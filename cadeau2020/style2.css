@@ -1,0 +1,17 @@
+#image
+{
+	width:450px;
+	height:300px;
+    border-radius: 10px;
+
+}
+body
+{
+		background-color:tomato;
+}
+h1
+{
+	text-align:center;
+	color: white;
+	
+}

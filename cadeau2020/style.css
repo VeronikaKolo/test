@@ -1,0 +1,18 @@
+body
+{
+    background-image: url("coffre.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+h1
+{
+	text-align: center;
+	color: green;
+
+}
+a:visited 
+{
+    text-decoration: none; 
+    decoration: none; 
+}
